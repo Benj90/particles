@@ -1,4 +1,4 @@
-# Moonphase
+# Particles
 
 ## running p5 application
 
